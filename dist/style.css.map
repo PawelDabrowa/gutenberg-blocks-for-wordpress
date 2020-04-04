@@ -1,0 +1,1 @@
+{"version":3,"file":"style.css","sources":["webpack:///./src/blocks/secondblock/style.scss","webpack:///./src/blocks/firstblock/style.scss"],"sourcesContent":[".wp-block-fox-theme-blocks-secondblock {\n  background-color: red; }\n",".wp-block-fox-theme-blocks-firstblock {\n  background-color: blue; }\n"],"mappings":"AAAA;AACA;;ACDA;AACA;;","sourceRoot":""}
